@@ -1,2 +1,2 @@
 # frontend-mentor
-This is my frontend practice collections from frontend-mentor.com
+This is my frontend practice collection from frontend-mentor.com
